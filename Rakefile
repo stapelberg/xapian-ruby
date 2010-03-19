@@ -12,7 +12,7 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "xapian"
-    gem.version = '1.0.15'
+    gem.version = '1.0.18'
     gem.summary = %Q{xapian bindings for Ruby}
     gem.description = %Q{xapian bindings for Ruby}
     gem.email = "tom@holizz.com"
